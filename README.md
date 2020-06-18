@@ -13,5 +13,6 @@ Please fork this repository and clone it
 
 ## Contributors
 James.
+Thank you for your learning resource James.
 
 ## Copyright 2014 Git.training. All rights reserved
