@@ -1,4 +1,6 @@
 # Starter Web Project
+This is a git project for showing how to use git.
+Adding line for rebase example.
 
 ## Introduction
 
