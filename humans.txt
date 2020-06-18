@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    administrator Thinh_Nguyen nvq.thinh.hcmus.220597@gmail.com
 
 # THANKS
 
