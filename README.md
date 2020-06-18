@@ -12,6 +12,6 @@ Adding line for rebase example.
 Please fork this repository and clone it
 
 ## Contributors
-HR - Thinh97 thinh.vnq.220597@gmail.com
+James.
 
 ## Copyright 2014 Git.training. All rights reserved
