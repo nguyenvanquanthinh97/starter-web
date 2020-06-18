@@ -11,6 +11,7 @@
 
     <name>
     Thanks all for James about git training course
+    If you like, please leave some reviews.
 
 # TECHNOLOGY COLOPHON
 
