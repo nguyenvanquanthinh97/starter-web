@@ -15,4 +15,7 @@ Please fork this repository and clone it
 James.
 Thank you for your learning resource James.
 
+## Technologies
+HTML, CSS, JS
+
 ## Copyright 2014 Git.training. All rights reserved
