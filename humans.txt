@@ -17,3 +17,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    
+# Special thanks to James for great learning resource.
