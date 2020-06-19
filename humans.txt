@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
     administrator Thinh_Nguyen nvq.thinh.hcmus.220597@gmail.com
     hr Thinh97 thinh.nvq.220597@gmail.com
+    Vietnamese students 1
 
 # THANKS
 
